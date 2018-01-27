@@ -1,6 +1,7 @@
 
 # Thinking in Java (Java 编程思想)
 
+> 本开源书 forked from [Thinking in Java (Java 编程思想)](https://github.com/quanke/think-in-java)，作者为 [quanke](https://github.com/quanke)，欢迎大家 star 原作者的 [repo](https://github.com/quanke/think-in-java)，以便获得最新更新，谢谢！
 
 本书来自网络，http://quanke.name 整理成电子书，支持PDF,ePub,Mobi格式，方便大家下载阅读。
 
